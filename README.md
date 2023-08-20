@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **1002tiwaripp@gmail.com**
 
-- ⚡ Fun fact **I drink 3 liters of water everyday**
+- ⚡ Fun fact **I drink 3 liters of water every day**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
