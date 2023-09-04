@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tiwariparth6165" target="blank"><img src="https://img.shields.io/twitter/follow/tiwariparth6165?logo=twitter&style=for-the-badge" alt="tiwariparth6165" /></a> </p>
 
-- 🔭 I’m currently working on [Modern Banking Project](https://github.com/tiwariParth/ModernBankApp)
+- 🔭 I’m currently working on **Authentication Project**
 
 - 🌱 I’m currently learning **ReactJS and building cool projects**
 
