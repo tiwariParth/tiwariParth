@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/tiwariparth6165" target="blank"><img src="https://img.shields.io/twitter/follow/tiwariparth6165?logo=twitter&style=for-the-badge" alt="tiwariparth6165" /></a> </p>
 
-- 🔭 I’m currently working on **Authentication Project**
+- 🔭 I’m currently working on **NextJS**
 
-- 🌱 I’m currently learning **ReactJS and building cool projects**
+- 🌱 I’m currently learning **Full stack development and building cool projects**
 
-- 📝 I regularly write articles on [https://hashnode.com/@ParthTiwari](https://hashnode.com/@ParthTiwari)
+- 📝 I regularly write articles on [https://hashnode.com/@ParthTiwari](https://tiwariparth.hashnode.dev/)
 
-- 💬 Ask me about **ReactJS,Sass, JavaScript**
+- 💬 Ask me about **Full stack dev,saas, JavaScript**
 
 - 📫 How to reach me **1002tiwaripp@gmail.com**
 
