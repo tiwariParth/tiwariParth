@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="./assets/terminal.svg" alt="Animated terminal: neofetch for Parth, technical marketer at BlueFox Email learning DevOps and SRE" width="100%">
+  <img src="./assets/terminal.svg" alt="Animated terminal: neofetch for Parth, technical writer learning DevOps and SRE" width="100%">
 </div>
 
 # Hi, I'm Parth 👋
 
-Developer and technical writer from India. By day I do technical marketing at [BlueFox Email](https://bluefox.email): docs, deep-dive articles, video and some light coding. The rest of the time I'm working my way into **DevOps and SRE**, one broken VM at a time.
+Developer and technical writer from India. By day I write docs, deep-dive articles and video for an email platform, with some light coding on the side. The rest of the time I'm working my way into **DevOps and SRE**, one broken VM at a time.
 
 - 🔭 Building an **email event pipeline** as my main DevOps portfolio project, growing it in three stages through the end of 2026
 - 🌱 Learning AWS, Terraform, Kubernetes, Ansible and Docker; working toward AWS Cloud Practitioner, Terraform Associate and CKA
@@ -38,9 +38,9 @@ parth@fedora:~$ cat roadmap.txt
 
 ## ✍️ Writing and work
 
-- 📚 Maintain the [BlueFox Email docs](https://bluefox.email/docs) and wrote several of its guides
-- 🛡️ Updated BlueFox's DMARC tooling to match the new DMARCbis RFCs (9989 to 9991)
-- 🤖 Video series on the [BlueFox Email MCP server](https://github.com/bluefox-email/bluefox.email-mcp), showing AI agents building emails through it
+- 📚 Maintain product [docs](https://bluefox.email/docs) for an email platform and wrote several of its guides
+- 🛡️ Updated DMARC tooling to match the new DMARCbis RFCs (9989 to 9991)
+- 🤖 Video series on an [email MCP server](https://github.com/bluefox-email/bluefox.email-mcp), showing AI agents building emails through it
 - 🔍 Long-form technical articles and fact-checked comparisons of email platforms, backed by Claude Code skills I built for automated fact-checking
 
 ## 💻 Tech stack
