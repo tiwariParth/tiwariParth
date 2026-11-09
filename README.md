@@ -38,10 +38,9 @@ parth@fedora:~$ cat roadmap.txt
 
 ## ✍️ Writing and work
 
-- 📚 Maintain product [docs](https://bluefox.email/docs) for an email platform and wrote several of its guides
-- 🛡️ Updated DMARC tooling to match the new DMARCbis RFCs (9989 to 9991)
-- 🤖 Video series on an [email MCP server](https://github.com/bluefox-email/bluefox.email-mcp), showing AI agents building emails through it
-- 🔍 Long-form technical articles and fact-checked comparisons of email platforms, backed by Claude Code skills I built for automated fact-checking
+- 📚 Write and maintain product docs and technical guides
+- 🛡️ Hands-on with email infrastructure: SPF, DKIM and DMARC, including the new DMARCbis RFCs
+- 🔍 Long-form technical articles, backed by Claude Code skills I built for automated fact-checking
 
 ## 💻 Tech stack
 
